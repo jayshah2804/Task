@@ -1,0 +1,12 @@
+.subDiv {
+    display: flex;
+}
+
+.container {
+    margin-left: 33%;
+    margin-top: 1%;
+}
+
+.submit {
+    margin: 1%;
+}
